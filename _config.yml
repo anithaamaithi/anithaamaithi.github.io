@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rogue
+mathjax:          true
+#plugins:          [jekyll-paginate]
+plugins:
+ - jekyll-paginate
+
+# Permalinks
+permalink:        pretty # tells what your website links will look like. For example: /blog/:year/:month/:day/:title/
+relative_permalinks: false
+
+# Setup
+title:            Arun Amaithi Rajan
+description:      Ph.D Scholar @ CEG, AU
+url:              "https://arunamaithi.github.io/"
+baseurl:          "" 
+
+github:
+  repo:           https://github.com/arunamaithi/
