@@ -32,9 +32,9 @@ I have actively participated in national and international academic forums, incl
 
 <h2>Education</h2>
 <ul>
-  <li><strong>College of Engineering Guindy, Anna University</strong> - Ph.D. in Computer Science and Engineering (January 2022 – Present) (Thesis on <strong>Secure Medical Image Storage and Retrieval Techniques in the Cloud</strong>)</li>
-  <li><strong>School of Computing, National University of Singapore</strong> - Master of Computing (August 2018 – January 2020)</li>
-  <li><strong>College of Engineering Guindy, Anna University</strong> - B.E. in Computer Science and Engineering (August 2014 – April 2018)</li>
+  <li><strong>College of Engineering Guindy, Anna University</strong> - Ph.D. in Computer Science and Engineering (July 2021 – Present) (Thesis on <strong>Genetic Disorder Prediction using MAchine Learning Techniques</strong>)</li>
+  <li><strong>Francis Xavier Engineering College, Tirunelveli, Tamil Nadu</strong> - Master of Engineering (CSE) (2017 - 2019)</li>
+  <li><strong>PSNA College of Engineering and Technology, Dindigul, Tamil Nadu</strong> - B.E. in BME (2011 - 2015)</li>
 </ul>
 
 
