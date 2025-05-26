@@ -21,9 +21,9 @@ title: Home
 Hello! 
 <!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
 
-I'm Anitha Amaithi Rajan, a final year Ph.D. candidate at the [College of Engineering Guindy, Anna University](https://www.annauniv.edu/) under the guidance of [Dr. V. Vetriselvi](https://vetriselvivetrian.github.io/). I am currently part of the [Security Research Lab](https://vetriselvivetrian.github.io/security-research-lab), where my research focuses on multimedia security, encompassing image encryption, and privacy-preserving image retrieval. Further, I explore cryptographic techniques such as secure computation, encrypted data processing, blockchain technologies, zero-knowledge verification, adversarial attack-resistant learning, and with a keen interest in leveraging LLMs for security applications.
+I am Anitha Amaithi Rajan, former Assistant Professor with extensive teaching experience across various engineering institutions. I specialize in Computer Science and Engineering and am presently pursuing my Ph.D. at Anna University, focusing on Machine Learning applications in Computational Biology. With a deep passion for teaching and mentoring, I have guided several student projects, particularly in Artificial Intelligence, and was honored with a Best Mentor Award for outstanding guidance. My academic contributions include research publications, patents, and book chapters in reputed platforms.
 
-I have contributed to various research articles in high-end journals and conferences. Prior to my doctoral studies, I accumulated over two years of industry experience as a firmware security engineer at [Micron Technologies, Singapore](https://www.micron.com/). In this role, I was involved in client and enterprise NVMe SSD projects, developing secure firmware, resolving critical bugs, and creating internal tools. Additionally, I have completed a five-month internship with [PayPal's security team in Singapore](https://www.paypal.com/sg/webapps/mpp/home), where I worked on Intel SGX and Attribute-Based Encryption (ABE) techniques.
+I have actively participated in national and international academic forums, including presenting my research at BITS Pilani – Dubai Campus.
 
 <!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
